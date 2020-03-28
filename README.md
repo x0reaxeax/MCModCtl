@@ -1,3 +1,9 @@
+# !OUTDATED!
+### ! XoPack Installer has been replaced with [XoLauncher](https://github.com/x0reaxeax/XoLauncher) !
+# !OUTDATED!
+
+
+
 # How to install XoPack
 ### 1. Setting up MultiMC
  **1.1** Download [MultiMC](https://files.multimc.org/downloads/mmc-stable-win32.zip)  
